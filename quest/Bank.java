@@ -1,3 +1,5 @@
+package quest;
+
 public class Bank {
 
     private int total;
